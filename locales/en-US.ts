@@ -2,6 +2,7 @@ export default {
   'app.copyright.author': 'imwxz',
   'app.ok': 'OK',
   'app.cancel': 'Cancel',
+  'app.reset': 'Reset',
   'app.confirm': 'This operation cannot be undone!',
   'app.filesize': 'File is too large, should be less than {size}',
 
